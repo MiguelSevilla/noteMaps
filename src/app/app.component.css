@@ -1,0 +1,13 @@
+@import url('https://js.arcgis.com/4.7/esri/themes/dark/main.css');
+
+:host {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+  }
+
+#mapViewNode {
+    height: 70%;
+}
